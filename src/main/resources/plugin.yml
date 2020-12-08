@@ -1,0 +1,4 @@
+name: InvisibleItemFrames
+version: ${project.version}
+main: de.mottekmalocher.invisibleitemframes.invisibleitemframes.InvisibleItemFrames
+api-version: 1.16
